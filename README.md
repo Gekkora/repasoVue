@@ -1,4 +1,4 @@
-# Repasando pasos básicos de una app para listado, con login de usuario y registro.
+# Repasando pasos básicos de una app para listado, con login de usuario y registro.(pausado)
 
 ## Project setup
 ```
